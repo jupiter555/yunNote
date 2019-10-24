@@ -17,4 +17,5 @@ python3 manage.py runserver
 注册页面：http://127.0.0.1:8000/user/reg
 笔记列表页面：http://127.0.0.1:8000/note/
 添加笔记页面：http://127.0.0.1:8000/note/add
+修改笔记页面：http://127.0.0.1:8000/note/mod(未实现)
 ```
