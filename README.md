@@ -11,7 +11,7 @@ python3 manage.py migrate
 ```python
 python3 manage.py runserver
 ```
-- 4.打开网页
+- 4. 打开网页
 ```html
 登录页面：http://127.0.0.1:8000/user/login
 注册页面：http://127.0.0.1:8000/user/reg
